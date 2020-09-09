@@ -8,7 +8,8 @@ int main(){
 	if(r==0){
 		// Dung
 		printf("%d so chan",num);
-	}else{
+	}
+	else{
 		// Sai
 		printf("%d so le",num);
 	}
